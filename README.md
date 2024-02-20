@@ -1,6 +1,6 @@
 # IBM-Project-21958-1659799093
 Personal Expense Tracker Application
-Personal Expense Tracker Application
+
 Category: Cloud App Development
 
 Project Description:
